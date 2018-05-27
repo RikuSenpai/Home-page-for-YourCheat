@@ -1,0 +1,6 @@
+article.home-content {
+	color: #04B404; #8A2BE2
+}
+article.home-content header[role="home-title"] h2 > span {
+	color: #DF7401; #000000 #32CD32
+}
